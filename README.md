@@ -1,8 +1,3 @@
-# compeng2sh4-fall2022-lab4-starter
+# COMPENG_2SH4
 
-
-Section: [Insert your lab section]
-
-MacID: [Insert your macID here]
-
-StudentID: [Insert your numerical student ID here]
+Assignments for the course COMPENG 2SH4: Principles of Programming
